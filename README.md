@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Segregator
+Deployed : [Website](https://segregator-fa038.web.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+Segregating waste eases our waste disposal, helps in recycling and is good for the environment. Use this tool to segregate waste!
 
-## Available Scripts
+## Technologies:
 
-In the project directory, you can run:
+- [ ] ReactJS (with React Router) as the Javascript library
+- [ ] TailwindCSS as the styling library
+- [ ] Firebase and Firestore as the backend
+- [ ] Machine Learning model to differentiate between various types of wastes.
 
-### `npm start`
+I only set up Google Auth, as we need to signin with our institute ids only.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisite
+Node must be installed on your device
 
-### `npm test`
+To  setup:
+1. Clone this repo with:
+```
+git clone --branch vaibhav-secondcycle https://github.com/crsdvaibhav/Debugit_2022.git
+```
+2. Then go inside the DebugIT folder and open your code editor and in its terminal run(for dependencies):
+```
+npm install
+```
+3. Now run this in the terminal
+```
+npm start
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Wait for the website to fire up on: http://localhost:3000/
 
-### `npm run build`
+### Some issues which we couldn't fix in the given time:
+1. While image gets uploaded, the UI looks a bit bad.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Hope to clear these in upcoming days.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## About Us:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Hello there! We five are 1st year students at IIT (BHU) Varanasi. Just starting our web development journey, we dodn't
+have high hopes of winning, but the experience as working as a team is immeasurable. We gathered that from this Hackfest.
 
-### `npm run eject`
+Members:
+1. Samar Singh Randhawa (Leader)
+    Email: 
+2. Rajat Shukla
+    Email:
+3. Abbhinav Jha
+    Email:
+4. Sharnam Aggarwal
+    Email:
+5. Vaibhav Pandey
+    Email: vaibhav.krpandey.che21@itbhu.ac.in
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
