@@ -21,9 +21,9 @@ Node must be installed on your device
 To  setup:
 1. Clone this repo with:
 ```
-git clone --branch vaibhav-secondcycle https://github.com/crsdvaibhav/Debugit_2022.git
+git clone --branch master https://github.com/crsdvaibhav/segregator.git
 ```
-2. Then go inside the DebugIT folder and open your code editor and in its terminal run(for dependencies):
+2. Then go inside the 'segregator' folder and open your code editor and in its terminal run(for dependencies):
 ```
 npm install
 ```
@@ -46,16 +46,15 @@ have high hopes of winning, but the experience as working as a team is immeasura
 
 Members:
 1. Samar Singh Randhawa (Leader)
-    Email: 
-2. Rajat Shukla
-    Email:
-3. Abbhinav Jha
-    Email:
-4. Sharnam Aggarwal
-    Email:
-5. Vaibhav Pandey
-    Email: vaibhav.krpandey.che21@itbhu.ac.in
 
+2. Rajat Shukla,
+    
+3. Abbhinav Jha,
+    
+4. Sharnam Aggarwal,
+    
+5. Vaibhav Pandey,
+    
 
 
 
